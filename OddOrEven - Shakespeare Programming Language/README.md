@@ -1,4 +1,4 @@
-# OddOrEven - Shakespear Programming Language (SPL)
+# OddOrEven - Shakespeare Programming Language (SPL)
 
 This code was made using the ShakeSpeare Programming Language.
 
