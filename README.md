@@ -1,3 +1,3 @@
-# CapgeminiCodingChallenges
+# CsdCodingChallenges
 
-All the Coding Challenges of Capgemini can be found here
+All the Coding Challenges of Csd unit can be found here
