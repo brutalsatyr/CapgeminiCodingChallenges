@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateUniqueAcronyms", "GenerateUniqueAcronyms\GenerateUniqueAcronyms.csproj", "{4310006E-B64C-4BAC-BF53-EE1F30B4DE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4310006E-B64C-4BAC-BF53-EE1F30B4DE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4310006E-B64C-4BAC-BF53-EE1F30B4DE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4310006E-B64C-4BAC-BF53-EE1F30B4DE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4310006E-B64C-4BAC-BF53-EE1F30B4DE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95936896-5E0A-4148-BDF6-43F938D9708C}
+	EndGlobalSection
+EndGlobal
